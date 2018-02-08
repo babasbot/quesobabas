@@ -1,0 +1,5 @@
+__version__ = '0.0.1'
+__author__  = 'Luis Alfredo Lorenzo'
+__email__   = 'babasbot@gmail.com'
+__url__     = 'https://github.com/babasbot/quesobabas'
+__license__ = 'MIT'

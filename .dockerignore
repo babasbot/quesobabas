@@ -1,0 +1,5 @@
+.editorconfig
+.env
+.git
+.gitignore
+db.sqlite3
