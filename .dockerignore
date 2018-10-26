@@ -3,3 +3,10 @@
 .git
 .gitignore
 db.sqlite3
+.Python
+db.sqlite3
+*.pyc
+pip-selfcheck.json
+bin/
+include/
+lib/
