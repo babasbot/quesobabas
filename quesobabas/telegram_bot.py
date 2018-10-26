@@ -10,8 +10,12 @@ from telegram.ext import Updater
 from telegram     import ChatAction
 
 import os
+import re
 
 def handle_message(bot, update):
+    if update.message.chat.type != "private" and re.search(r'@QuesoBabasBot', update.message.text) is None:
+        return()
+
     bot.send_chat_action(
         chat_id=update.message.chat_id,
         action=ChatAction.TYPING
