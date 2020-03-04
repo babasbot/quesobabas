@@ -19,7 +19,7 @@ python-telegram-bot==9.0.0
 python-twitter==3.4
 PyYAML==3.12
 redis==2.10.6
-requests==2.18.4
+requests==2.20.0
 requests-oauthlib==0.8.0
 requests-toolbelt==0.8.0
 six==1.11.0
