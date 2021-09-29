@@ -10,7 +10,7 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 mathparse==0.1.1
-nltk==3.2.5
+nltk==3.6.3
 oauthlib==2.0.6
 pymessenger==0.0.7.0
 pymongo==3.6.0
